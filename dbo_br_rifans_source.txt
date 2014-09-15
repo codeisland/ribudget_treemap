@@ -1,0 +1,7 @@
+"00","Balance Sheet                                     "
+"01","General Revenue                                   "
+"02","Federal Funds                                     "
+"03","Restricted Receipts                               "
+"05","Operating Transfers from Other Funds              "
+"07","Debt                                              "
+"09","Other Funds                                       "

@@ -1,0 +1,7 @@
+"00","No Function                             "
+"10","General Government                      "
+"20","Health and Human Services"
+"30","Education                               "
+"40","Public Safety                           "
+"50","Natural Resources                       "
+"60","Transportation                          "
